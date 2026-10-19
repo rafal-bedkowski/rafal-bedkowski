@@ -1,5 +1,3 @@
-<img src="./assets/profile.jpg" width="120" align="right" style="border-radius:50%" />
-
 # Hey, I'm Rafał Będkowski 👋
 
 **Products & Software Development Department Manager** @ [OPTOPOL Technology](https://optopol.com) — medtech / ophthalmic diagnostics
