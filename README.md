@@ -1,7 +1,7 @@
 # Hey, I'm Rafał Będkowski 👋
 
 **Products & Software Development Department Manager** @ [OPTOPOL Technology](https://optopol.com) — medtech / ophthalmic diagnostics
-Certified Scrum Product Owner · CS Engineering student · Building [@drivetheproduct](https://instagram.com/drivetheproduct)
+Certified Scrum Product Owner · B.Eng. Computer Science · Building [@drivetheproduct](https://instagram.com/drivetheproduct)
 
 ---
 
