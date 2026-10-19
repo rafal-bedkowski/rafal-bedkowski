@@ -19,7 +19,7 @@ Certified Scrum Product Owner · CS Engineering student · Building [@drivethepr
 
 **Product:** Jira · Confluence · Figma · Miro
 **AI & agents:** Claude · Perplexity · ChatGPT · NotebookLM
-**Code:** Python · HTML/CSS · JS
+**Code:** Python · C++ · C# · JS
 
 ---
 
