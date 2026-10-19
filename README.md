@@ -7,7 +7,7 @@ Certified Scrum Product Owner · CS Engineering student · Building [@drivethepr
 
 ### What I'm into right now
 
-- 🏥 Leading product & software development in a **regulated medtech environment** (MDR/IVD) — multidisciplinary team: biomedical engineers, clinical researchers, UX, statisticians
+- 🏥 Leading product & software development in a **regulated medtech environment** (MDR/IVD) — multidisciplinary team: biomedical engineers, clinical researchers, UX, product researcher, statisticians
 - 🤖 Exploring **AI agent architectures**, LLM orchestration, and agentic tooling — specifically what makes sense (and what doesn't) in clinical/medtech contexts
 - 🧩 Working through the practical side: how AI fits into validated, traceable pipelines under MDR/IVD constraints
 - 📱 Growing a PM/PO personal brand for people entering product roles → [@drivetheproduct](https://instagram.com/drivetheproduct)
